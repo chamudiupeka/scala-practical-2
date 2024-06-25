@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="057c7a4d-4179-4cdd-884d-281ae71ade50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/practical2.scala.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/First.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Forth.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Second.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Third.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Forth.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/Forth.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Forth.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Second.executor": "Run",
     "Application.Test.executor": "Run",
@@ -95,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1719242616921</updated>
       <workItem from="1719242617808" duration="3941000" />
-      <workItem from="1719253737554" duration="6530000" />
+      <workItem from="1719253737554" duration="9295000" />
     </task>
     <servers />
   </component>
